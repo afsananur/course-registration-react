@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to OOP Python",
+      "img": "https://i.ibb.co/ncKTDrG/Rectangle-2.png",
+      "hour": 3,
+      "price": 49.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 2,
+      "title": "Database (MySQL)",
+      "img": "https://i.ibb.co/4SRgpB5/Rectangle-2-1.png",
+      "hour": 4,
+      "price": 69.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 3,
+      "title": "Introduction to C Programming",
+      "img": "https://i.ibb.co/WFKG1dj/Rectangle-2-2.png",
+      "hour": 5,
+      "price": 79.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Algorithms",
+      "img": "https://i.ibb.co/cYQ7s3K/Rectangle-2-3.png",
+      "hour": 3,
+      "price": 59.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 5,
+      "title": "Introduction to C++ for DSA",
+      "img": "https://i.ibb.co/X7NhNNs/Rectangle-2-4.png",
+      "hour": 2,
+      "price": 39.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 6,
+      "title": "Software Engineering",
+      "img": "https://i.ibb.co/DQGGgZx/Rectangle-2-5.png",
+      "hour": 4,
+      "price": 89.99,
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    },
+    {
+      "id": 7,
+      "title": "Problem-Solving Part",
+      "img": "https://i.ibb.co/HzfSyhm/Rectangle-2-6.png",
+      "hour": 3,
+      "price": 49.99,
+      "details": "Master the fundamentals of business management."
+    },
+    {
+      "id": 8,
+      "title": "Basic Data Structures",
+      "img": "https://i.ibb.co/4tv4cNV/Rectangle-3.png",
+      "hour": 2,
+      "price": 34.99,
+      "details": "Start your photography journey with the basics."
+    },
+    {
+      "id": 9,
+      "title": "AWS, Cloud Computing",
+      "img": "https://i.ibb.co/k2WHv50/Rectangle-3-1.png",
+      "hour": 4,
+      "price": 79.99,
+      "details": "Become a culinary expert with hands-on cooking classes."
+    }
+  ]
+  

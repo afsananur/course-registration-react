@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Lato:wght@700&family=Lugrasimo&family=Manrope:wght@600&family=Open+Sans:wght@400;500&family=Poppins:wght@500&family=Work+Sans:wght@700&display=swap');
+
+body{
+  font-family: 'Inter', sans-serif;
+
+};
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
