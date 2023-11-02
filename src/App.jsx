@@ -36,6 +36,25 @@ function App() {
 
     let timeCount = creditHour - time;
     
+    if (!result) {
+      if (timeCount >= 0) {
+        setCredit(newCredit);
+        // total Cadit
+
+        setHour(hour + time);
+       
+        setCreditHour(timeCount);
+        
+      } else {
+        setShowAlert(true);
+      }
+    }else{
+      // alert('One time ADD');
+      alert('hiugiuh')
+
+
+    }
+
   }
    
 
