@@ -50,7 +50,7 @@ function App() {
       }
     }else{
       // alert('One time ADD');
-      alert('hiugiuh')
+      alert('Toast')
 
 
     }
