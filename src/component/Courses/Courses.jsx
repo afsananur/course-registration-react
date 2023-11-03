@@ -6,9 +6,10 @@ import PropTypes from 'prop-types';
 
 const Courses = ({handleCredit}) => {
     const [courses, setCourses]= useState([]);
+    console.log(Courses);
 
     useEffect(() => {
-        fetch('/public/courses.json')
+        fetch('courses.json')
         .then (res => res.json())
         .then(data=> setCourses(data))
     },[])
