@@ -8,7 +8,7 @@ const Courses = ({handleCredit}) => {
     const [courses, setCourses]= useState([]);
 
     useEffect(() => {
-        fetch('/public/coursesjson')
+        fetch('/public/courses.json')
         .then (res => res.json())
         .then(data=> setCourses(data))
     },[])
